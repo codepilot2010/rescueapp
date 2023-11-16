@@ -1,0 +1,58 @@
+body 
+{
+    background-size: cover;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Chakra Petch', sans-serif;
+    color: red;
+}
+#status,#numofobj,#start
+{
+    font-size: 18px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    color: royalblue;
+    width: 100%;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 3;
+    font-size: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 140px;
+    box-shadow: 5px 5px 5px royalblue;
+    font-family: 'Chakra Petch', sans-serif;
+}
+input
+{
+    color: royalblue;
+    border-radius: 5px;
+    width: 15%;
+    box-shadow: 5px 5px 5px royalblue;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.para
+{
+    color: royalblue;
+    font-size: 17px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.lab
+{
+    color: red;
+    font-size: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+}
